@@ -14,7 +14,6 @@
               <th scope="col">username</th>
               <th scope="col">email</th>
               <th scope="col">telpon</th>
-              <th scope="col">telpon</th>
               <th scope="col">Action</th>
             </tr>
           </thead>
